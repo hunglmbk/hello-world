@@ -1,0 +1,48 @@
+[{
+			"preCustomerId": "PD03T",
+			"min": 105295,
+			"max": 200000,
+			"increase": true
+		},
+		{
+			"preCustomerId": "PD03T",
+			"min": 100000,
+			"max": 105294,
+			"increase": false
+		},
+		{
+			"preCustomerId": "PD16009",
+			"min": 990000,
+			"max": 993664,
+			"increase": false
+		},
+		{
+			"preCustomerId": "PD16009",
+			"min": 995121,
+			"max": 999999,
+			"increase": true
+		},
+		{
+			"preCustomerId": "PD16009",
+			"min": 993665,
+			"max": 995120,
+			"increase": true
+		},
+		{
+			"preCustomerId": "PD11000",
+			"min": 210873,
+			"max": 220000,
+			"increase": true
+		},
+		{
+			"preCustomerId": "PD30000",
+			"min": 210000,
+			"max": 220000
+		},
+		{
+			"preCustomerId": "PD16000",
+			"min": 210218,
+			"max": 219999,
+			"increase": true
+		}
+	]
