@@ -1,7 +1,7 @@
 [
 	{
 			"preCustomerId": "PD16009",
-			"min": 998201,
+			"min": 998408,
 			"max": 999999,
 			"increase": true
 		},
@@ -55,7 +55,7 @@
 		{
 			"preCustomerId": "PD16009",
 			"min": 993665,
-			"max": 998200,
+			"max": 998407,
 			"increase": true
 		}
 	]
