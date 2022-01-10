@@ -1,0 +1,51 @@
+[
+	{
+			"preCustomerId": "PD160000",
+			"min": 92645,
+			"max": 99999,
+			"increase": true
+		},
+  	{
+			"preCustomerId": "PD160000",
+			"min": 1,
+			"max": 92644,
+			"increase": false
+		},
+	{
+			"preCustomerId": "PD16T",
+			"min": 105532,
+			"max": 999999,
+			"increase": true
+		},
+  	{
+			"preCustomerId": "PD16T",
+			"min": 1,
+			"max": 105531,
+			"increase": false
+		},	
+	{
+			"preCustomerId": "PD1600T",
+			"min": 1,
+			"max": 302415,
+			"increase": false
+		},
+	{
+			"preCustomerId": "PD1600T",
+			"min": 302416,
+			"max": 320000,
+			"increase": true
+		},
+		
+	{
+			"preCustomerId": "PD1600T00",
+			"min": 1,
+			"max": 4865,
+			"increase": false
+		},
+	{
+			"preCustomerId": "PD1600T0",
+			"min": 4865,
+			"max": 99999,
+			"increase": true
+		}
+	]
