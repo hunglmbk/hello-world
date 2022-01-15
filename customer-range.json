@@ -15,18 +15,18 @@
 	{
 			"preCustomerId": "PD16000",
 			"min": 1,
-			"max": 201500,
+			"max": 118373,
 			"increase": false
 		},
 	{
 			"preCustomerId": "PD16000",
-			"min": 201501,
-			"max": 219999,
+			"min": 118374,
+			"max": 245700,
 			"increase": false
 		},
 	{
 			"preCustomerId": "PD16000",
-			"min": 220000,
+			"min": 245701,
 			"max": 999999,
 			"increase": true
 		},
