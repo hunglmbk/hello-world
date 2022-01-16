@@ -1,28 +1,4 @@
 [
-		{
-			"preCustomerId": "PD16008",
-			"min": 993665,
-			"max": 999999,
-			"increase": true
-		},
-		{
-			"preCustomerId": "PD16008",
-			"min": 1,
-			"max": 993664,
-			"increase": false
-		},
-	{
-			"preCustomerId": "PD16009",
-			"min": 973665,
-			"max": 999999,
-			"increase": true
-		},
-		{
-			"preCustomerId": "PD16009",
-			"min": 1,
-			"max": 973665,
-			"increase": false
-		},
 	{
 			"preCustomerId": "PD16009",
 			"min": 993665,
