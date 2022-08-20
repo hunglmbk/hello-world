@@ -12,6 +12,18 @@
 			"increase": false
 		},
 	{
+		"preCustomerId": "PD120000",
+			"min": 15270,
+			"max": 99999,
+			"increase": true
+		},
+  	{
+			"preCustomerId": "PD120000",
+			"min": 1,
+			"max": 15269,
+			"increase": false
+		},
+	{
 		"preCustomerId": "PD1200T00",
 			"min": 4865,
 			"max": 9999,
